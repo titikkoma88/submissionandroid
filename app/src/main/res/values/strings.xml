@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Submission Dicoding</string>
+    <string name="clubs_name">Nama Klub</string>
+    <string name="detail">Detail</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">with CardView</string>
+    <string name="about">About</string>
+    <string name="favorite">Favorite</string>
+    <string name="created">Created By</string>
+    <string name="my_name">Panji Ramadhan Hadjarati</string>
+    <string name="my_email">jie.piranha@gmail.com</string>
+    <string name="data_received">Data Diterima</string>
+    <string name="back_to_menu">Back To Menu</string>
+    <string name="exit">Exit</string>
+</resources>
